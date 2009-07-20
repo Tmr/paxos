@@ -1,0 +1,10 @@
+Implementation of the Paxos algo in Scala based on the following paper.
+
+"Paxos For System Builders"
+Jonathan Kirsch and Yair Amir
+Technical Report CDNS-2008-2 March 2008
+
+My implementation adheres to the paper somewhat closely.  The implementation is _not_ of commercial quality.  There appears to be a US Patent #5261085 on Paxos by Lamport.  My implementation was done for edification purposes, and has been made available under the GLPv3 open source license for the same reasons.
+
+Ray Racine
+July 19, 2009

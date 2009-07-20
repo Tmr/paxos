@@ -1,0 +1,8 @@
+*~
+*.class
+.scala_dependencies
+TAGS
+project/boot/
+project/build/
+target/
+lib_managed/
